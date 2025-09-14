@@ -4,7 +4,7 @@ export default {
   lavalink: {
     nodes: [
       {
-        name: "GlaceYT",
+        name: "Glace",
         password: "glaceyt",
         host: "5.39.63.207",
         port: 8262,
@@ -43,4 +43,5 @@ export default {
   ],
   
   activityRotationInterval: 30000, 
+
 };
